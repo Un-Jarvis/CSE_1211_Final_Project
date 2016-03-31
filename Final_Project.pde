@@ -1,19 +1,6 @@
-//Project 2
-//Name: Yuhua Huang
+//Final Project 
+//Name: Jarvis Huang
 //Date: 4/28/2015
-
-//My Comment: 
-//Hi, for this project I tried to build a bigger game, somewhat similar to Super Mario. 
-//Player needs to click the "Play" button to start the game. 
-//In the game, you can press the "LEFT" and "RIGHT" keys to make the player character move around, and "UP" key to jump.
-//Player needs to dodge the obstacles including Piranha flower, ghost, bomb, and wheel blades.
-//You will get one point every time you touch a coin. After gaining all the coins in one scene, the door will open and you can move to the next scene.
-//There are totally three scenes. Difficulty will increases as moving to the next scene.
-//As difficulty increases, there will be more obstacles, and player will need to get more points to pass the scene. 
-//When you get all coins (points) in three scenes, you win the game.
-//After winning or losing the game, the score list will appear on the screen. 
-//The score list only records the most recent 5 scores, and display these scores from highest to lowest.
-//Thanks for playing. Enjoy!
 
 
 import fisica.*;
